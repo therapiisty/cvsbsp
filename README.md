@@ -7,6 +7,9 @@
 - Source SDK 2013 Singleplayer
 - Mapbase HL2, Shared and Episodic (included in every release)
 
+## INSTALLATION
+Simply move the extracted contents of the release (all three mapbase folders + cvsbsp) to "steamapps/sourcemods"; which is typically located in the Steam directory on your C: drive or wherever you initially installed Steam.
+
 ## DESCRIPTION
 
 Ever wondered what it would feel like to be in the shoes of Jeremiah Sedam? Well, you'll never be half as cool, strong, have half of his blood coagulation rate and you'll never have his 20-inch penis. (<-- real thing he said btw)
